@@ -10,4 +10,5 @@ entity Employees  {
     email: String(100);
     gender: String(1);
     state: String(100);
+    diet: String(100);
 }
