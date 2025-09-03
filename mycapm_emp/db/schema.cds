@@ -8,4 +8,5 @@ entity Employees  {
     city: String(100);
     country: String(100);
     email: String(100);
+    gender: String(1);
 }
