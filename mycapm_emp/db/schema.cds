@@ -7,7 +7,5 @@ entity Employees  {
     age: String(3);
     city: String(100);
     country: String(100);
-    email: String(100);
-
 
 }
