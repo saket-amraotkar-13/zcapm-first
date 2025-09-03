@@ -6,6 +6,10 @@ entity Employees  {
     lname: String(100);
     age: String(3);
     city: String(100);
+<<<<<<< HEAD
     country: String(100);
+=======
+    email: String(100);
+>>>>>>> 6504093 (user2 changes)
 
 }
