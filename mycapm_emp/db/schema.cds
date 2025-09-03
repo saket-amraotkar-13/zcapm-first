@@ -9,4 +9,5 @@ entity Employees  {
     country: String(100);
     email: String(100);
     gender: String(1);
+    diet: String(100);
 }
